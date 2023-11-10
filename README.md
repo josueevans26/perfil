@@ -14,7 +14,7 @@
 A continuación, puedes encontrar una selección de algunos de mis proyectos destacados:
 
 1. Tickets-App (https://github.com/josueevans26/tickets-app.git): Es una pequeña aplicación que ayuda a la gestión de peticiones para el área de soporte técnico.
-2. VocaPepWeb (Enlace al repositori): Breve descripción del proyecto 2.
+2. VocaPepWeb (Enlace al repositorio): Breve descripción del proyecto 2.
 3. [Nombre del Proyecto 3](Enlace al repositorio): Breve descripción del proyecto 3.
 
 Estos son solo algunos ejemplos. Puedes explorar más proyectos en mi perfil.
@@ -35,8 +35,8 @@ Estos son solo algunos ejemplos. Puedes explorar más proyectos en mi perfil.
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
 
-- LinkedIn: [https://goo.su/gHO5Ho]
-- Correo electrónico: [joshuaone26@outlook.com]
+- LinkedIn: https://goo.su/gHO5Ho
+- Correo electrónico: joshuaone26@outlook.com
 
 No dudes en contactarme si tienes alguna pregunta o sugerencia.
 
